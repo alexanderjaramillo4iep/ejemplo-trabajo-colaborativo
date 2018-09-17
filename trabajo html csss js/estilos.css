@@ -2,8 +2,12 @@ h1 {
     color: red;
 }
 
-p {
+h2 {
     color: blueviolet;
+}
+
+p {
+    color: black;
     font-size: 18px;
     font-style: oblique;
 }
